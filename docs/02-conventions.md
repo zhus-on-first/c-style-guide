@@ -28,7 +28,6 @@ These are choices we agree on. The compiler doesn't care — but consistency mak
 
 ## 6. Error Handling
 
-
 ## 7. File Organization
 ### 7.1 What Goes in a Header
 ### 7.2 Order in Header

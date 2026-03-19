@@ -59,7 +59,8 @@ Once a proposal has reached consensus in its Issue:
 
 | Label | Meaning |
 |---|---|
-| `proposal` | New convention or change suggested |
+| `proposal-convention` | New convention or change suggested |
+| `proposal-pitfall` | New pitfall or change suggested |
 | `under discussion` | Active debate, not yet resolved |
 | `adopted` | Merged into the guide |
 | `wontfix` | Considered and decided against — kept for reference |
