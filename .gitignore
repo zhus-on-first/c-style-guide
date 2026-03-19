@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Vim / Neovim
+*.swp
+*.swo
+
+# Emacs
+\#*\#
+
+# Python
+__pycache__/
+*.py[cod]
