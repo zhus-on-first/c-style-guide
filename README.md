@@ -25,10 +25,14 @@ C17 since Codio as of Spring 2026 runs Clang 14 with no other flags.
 
 ## How to navigate
 
-- [`593-c-style-guide.md`](./593-c-style-guide.md) — the guide itself
-- [`CONTRIBUTING.md`](./CONTRIBUTING.md) — how to propose changes
-- [GitHub Issues](../../issues) — active proposals and discussions
+### The guide
+- [`docs/01-compiler-requirements.md`](./docs/01-compiler-requirements.md) — what the compiler enforces
+- [`docs/02-conventions.md`](./docs/02-conventions.md) — agreed group conventions
+- [`docs/03-common-pitfalls.md`](./docs/03-common-pitfalls.md) — — common C mistakes to avoid
+- [`docs/04-c-vs-java.md`](./docs/04-c-vs-java.md) — translation reference for Java students
+- [`docs/05-c-vs-python.md`](./docs/05-c-vs-python.md) — translation reference for Python students
 
-## Contributing
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md).
+### Contributing
+- [`CONTRIBUTING.md`](./CONTRIBUTING.md) — how to propose changes and submit PRs
+- [GitHub Issues](../../issues) — active proposals and bug reports
+- [GitHub Discussions](../../discussions) — questions, C topics, open-ended conversation
