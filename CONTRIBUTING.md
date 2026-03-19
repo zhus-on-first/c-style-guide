@@ -31,7 +31,7 @@ Proposals happen through **GitHub Issues** — not by directly editing the guide
 4. Add the label `proposal`
 5. Post a link to the Issue in the course slack channel to invite discussion
 
----s
+---
 
 ## Conflict resolution
 
@@ -59,13 +59,12 @@ Once a proposal has reached consensus in its Issue:
 
 | Label | Meaning |
 |---|---|
-| `proposal` | New convention or change under discussion |
+| `proposal` | New convention or change suggested |
 | `under discussion` | Active debate, not yet resolved |
 | `adopted` | Merged into the guide |
-| `rejected` | Considered and decided against — kept for reference |
+| `wontfix` | Considered and decided against — kept for reference |
 | `bug` | Something in the guide is wrong or misleading |
 | `good first issue` | Good entry point for new contributors |
-| `question` | Any general questions you have |
 
 ---
 
@@ -74,6 +73,7 @@ Once a proposal has reached consensus in its Issue:
 - Assume no prior C experience beyond 593
 - Keep rationale to one or two sentences
 - Always include a minimal code example for pitfalls and conventions sections
+- Use the Issue templates to guide you
 - Use fenced code blocks with `c` as the language identifier
 
 ~~~markdown
@@ -84,6 +84,13 @@ int *p;   // example
 
 ---
 
-## Questions?
+## Issues vs. Discussions
 
-Open an Issue with the label `question`, or post in the group chat.
+| Use an Issue when... | Use a Discussion when... |
+|---|---|
+| You want to propose a specific change | You have a question about C or the guide |
+| You found something wrong in the guide | You want to think out loud before making a proposal |
+| A convention needs to be added | You want to share something useful you found |
+| Something is unclear or misleading | You're not sure if something belongs in the guide |
+
+Not sure which to use? Start with a Discussion. It can always be converted to an Issue later.
