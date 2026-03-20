@@ -1,7 +1,7 @@
 ---
 name: New Proposal
 about: Suggest a new entry to any section of the guide
-labels: new-proposals
+labels: new-proposal
 ---
 
 **What do you want to add?**

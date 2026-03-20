@@ -22,14 +22,9 @@ What does **not** belong here: assignment solutions, course content, anything th
 
 Proposals happen through **GitHub Issues** — not by directly editing the guide.
 
-1. Go to the [Issues tab](../../issues) and click **New Issue**
-2. Title it clearly: `Proposal: [short description]` — e.g. `Proposal: use this style instead of that style`
-3. In the body, describe:
-   - What you want to change or add
-   - Why (rationale, course experience, reference if applicable)
-   - Any alternatives you considered
-4. Add the label `proposal`
-5. Post a link to the Issue in the course slack channel to invite discussion
+1. Go to the [Issues tab](https://github.com/zhus-on-first/c-style-guide/issues) and click **New Issue**
+2. Complete the required template
+4. Add the label `new-proposal`
 
 ---
 
@@ -59,12 +54,13 @@ Once a proposal has reached consensus in its Issue:
 
 | Label | Meaning |
 |---|---|
-| `proposal-convention` | New convention or change suggested |
-| `proposal-pitfall` | New pitfall or change suggested |
+| `bugs-and-changes` | Something in the guide is wrong, outdated, or unclear |
+| `new-proposal` | Suggest a new entry to any section of the guide |
+| `question` | Have a question? Use Discussions instead |
 | `under discussion` | Active debate, not yet resolved |
 | `adopted` | Merged into the guide |
 | `wontfix` | Considered and decided against — kept for reference |
-| `bug` | Something in the guide is wrong or misleading |
+
 | `good first issue` | Good entry point for new contributors |
 
 ---
@@ -72,7 +68,7 @@ Once a proposal has reached consensus in its Issue:
 ## Style for the guide itself
 
 - Assume no prior C experience beyond 593
-- Keep rationale to one or two sentences
+- Keep rationale to less than four sentences
 - Always include a minimal code example for pitfalls and conventions sections
 - Use the Issue templates to guide you
 - Use fenced code blocks with `c` as the language identifier
