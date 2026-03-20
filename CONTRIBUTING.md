@@ -8,13 +8,13 @@ Any MCIT student. See the step-by-step instructions below.
 
 ## What belongs here
 
-- C style and formatting conventions for CIS 593
+- C style and formatting conventions for CIT 593
 - Corrections to existing conventions
-- New common pitfalls discovered during assignments
+- New general pitfalls and misunderstandings for C learners
 - Updates to C vs. Java / C vs. Python comparisons
 - Any other proposals for the guide
 
-What does **not** belong here: assignment solutions, course content, anything that would violate Penn's academic integrity policy.
+What does **not** belong here: assignment solutions, course content, anything that would violate [Penn's academic integrity policy](https://catalog.upenn.edu/pennbook/code-of-academic-integrity/).
 
 ---
 
