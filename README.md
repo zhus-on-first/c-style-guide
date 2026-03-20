@@ -6,7 +6,7 @@ Originally created by Jia-Jia Zhu, Spring 2026.
 
 ## Who is this for
 
-MCIT students who want to learn and collaborate on C conventions for 593 (maybe 595?). This document is a reference when reading another classmate’s code base for collaborative assignments or when completing solo assignments.
+MCIT students who want to learn and collaborate on C conventions for 593 (maybe 595?). This document is a reference when reading another classmate’s code base for collaborative assignments or even when completing solo assignments.
 
 No prior C experience assumed beyond 593.
 
@@ -17,11 +17,18 @@ A reference for C conventions — what the compiler requires vs. what we've agre
 ## What this is not
 
 - A substitute for assignment instructions (those always take precedence)
-- A guide to correctness, efficiency, or design choices
+- A guide to correctness, efficiency, or design choices (refining should come later anyways)
+
+## Why a guide
+
+- Consistency helps one learn and keeps away bad habits
+- Consistency helps others read our code
+- This guide includes the *why* certain patterns are preferred. Then you make your own choices as an engineer
+- Take the cognitive load off of formatting and keep it on conceptual application and logic
 
 ## C version
 
-C17 since Codio as of Spring 2026 runs Clang 14 with no other flags.
+C17 since Codio as of Spring 2026 runs Clang 14 with no other visible flags.
 
 ## How to navigate
 
