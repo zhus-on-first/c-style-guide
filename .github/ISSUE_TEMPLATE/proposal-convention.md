@@ -15,6 +15,9 @@ State it clearly and concisely — e.g. "Do not use snake case in naming."
 **Rationale**
 Why is this worth adopting? One or two sentences.
 
+**Optional: Why does C work this?**
+Connect this convention to what's happening at the memory level? Why does C require this? How does it relate to assembly?
+
 **Alternatives you considered**
 What other approaches did you think about and why did you rule them out?
 

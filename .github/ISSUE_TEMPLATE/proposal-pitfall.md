@@ -21,4 +21,7 @@ Short descriptive name — e.g. "Forgetting null terminator"
 ```c
 ```
 
-**Which assignment or context did this come up in?** (optional)
+**Optional: Why does C work this?**
+Explain the underlying reason — memory layout,  type system, how C differs from Java/Python here, or how you'd see this at the assembly level.
+
+**Optional: Which assignment or context did this come up in?**
